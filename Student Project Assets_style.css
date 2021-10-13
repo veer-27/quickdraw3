@@ -1,0 +1,78 @@
+body
+{
+    background-color:gold;
+}
+
+#show_sketch
+{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: deepskyblue;
+    background-color: goldenrod;
+}
+
+#label
+{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+button 
+{
+    float: right;
+}
+
+#confidence
+{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+#sketch_write
+{
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:deepskyblue;
+}
+
+canvas 
+{
+    margin-top: 65;
+    border: 3px dashed black;
+    width: 280px;
+    height: 280px;
+    text-align: center; 
+}
+#time
+{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    margin-top: 50px;
+}
+#score
+{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    margin-top:50px;
+}
+
+#score_tag 
+{
+    font-size:30px;
+    font-weight:bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left:10px;
+}
+
+#timer_tag 
+{
+    font-size:30px;
+    font-weight:bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: right;
+    margin-right:25px;
+}
